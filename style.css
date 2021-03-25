@@ -139,7 +139,7 @@ li > input[type="text"] {
 }
 
 /* Completed */
-.completed-tasks.task {
+.completed-tasks .task {
   text-decoration: line-through;
   color: #888;
 }
@@ -149,7 +149,7 @@ ul li input[type="text"] {
   display: none;
 }
 
-.edit-mode-input {
+.edit-mode input[type="text"] {
   display: inline-block;
   width: 224px;
 }
