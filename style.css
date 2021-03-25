@@ -18,8 +18,13 @@ body {
 }
 
 @media (max-width:768px) {
-.aaa { text-align: center;
+
+
+.aaa {
+     text-align: center;
 }
+
+
 }
 .centered-main-page-element {
     display: block;
@@ -94,7 +99,6 @@ input#new-task {
 p > button:hover {
     color: #0FC57C;
 }
-
 /* Task list */
 li {
     overflow: hidden;
