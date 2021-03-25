@@ -4,7 +4,7 @@ body {
     color: #333;
     font-family: Lato, sans-serif;
 }
-.aaa {
+.header {
     width: 500px;
     margin: 0 auto;
     display: block;
@@ -20,13 +20,13 @@ body {
 @media (max-width:768px) {
 
 
-.aaa {
+.header {
      text-align: center;
 }
 
 
 }
-.centered-main-page-element {
+.centered-element {
     display: block;
     width: 500px;
     margin: 0 auto 0;
